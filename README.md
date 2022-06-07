@@ -1,5 +1,5 @@
 # Gaming-Pal-Finder
-**Abstract** 
+**Abstract**<br>
 Many video game players suffer from antisocial behavior. Being afraid to communicate with fellow players hurts both the person and the gaming genre. This project, titled Gaming Pal Finder, aims to create the initial meeting point for friends by combining a website with a machine learning model. As users enter their top three favorite games and decide whether they like others based on their preferences, the model grows more robust and accurate. Utilizing a web application, database, and python machine learning model, this project plants a solid foundation for a viable product in the future.
 
 # Instructions
