@@ -1,0 +1,100 @@
+* {box-sizing: border-box; }
+
+body {font-size: 1.2em; font-family: arial, helvetica, sans-serif;
+	  background-color: #000000; padding-top: 0.2em; padding-left: 2em; padding-right: 2em;
+}
+
+header, h1, #wrapper { margin-top: 0; }
+
+#wrapper {  width: 90%;
+			margin: auto;
+			background-color: #000000;
+} 
+
+h1, h2 { color: #000099; } 
+
+header { background-repeat: no-repeat;  	
+		 background-size: cover;
+		 width: 100%;
+		 border-style: solid;
+		 border-bottom-width: 0.5em;
+		 border-color: #000033;
+		 border-top: none;
+}
+
+h1 { padding-bottom: 0.5em; 
+	padding-top: 0.5em;
+	margin: auto;
+	text-align: center;
+	font-size: 300%;
+	background-color: #009933;
+	text-shadow: 3px 3px 3px #000000;
+}
+
+nav, main {background-color: #99ccff;}
+
+nav {border-bottom: 20px solid #000066;
+	 border-left: 10px solid #000066;
+	 border-right: 10px solid #000066;
+	 font-size: 100%;
+}
+
+nav ul { list-style-type: none; 
+         font-size: 1.2em;
+}
+
+nav a {text-decoration: none;}
+nav a:link {color: #009900;} 
+nav a:hover { background-color: #ffff00;}
+nav ul {display: table; width: 100%; margin: auto;
+	   list-style-type: none}
+nav li {display: table-cell; text-align: center; padding: 1.0em;}
+nav ul li {border-bottom-color: #ffffff;
+}
+
+main {overflow: auto; width: 100%; margin: auto; padding-left: 0.5em; }
+
+footer {text-align: center;
+         font-size: 80%;
+		 font-style: italic;
+		 color: #000000;
+		 padding: 2.5%;
+		 background-color: #009933;
+}
+
+p {margin-bottom: 1em;}
+
+input, label, select { width: 15em; padding: 0.5em;}
+input, textarea {border-radius: 5px;}
+
+label {clear: left; padding: 0.1em; margin-top: 0.5em; display:block; font-size: 80%;}
+
+button {width: auto; background: #000066; color:white; text-transform: uppercase; cursor:pointer; padding: 0.5em; margin-top: 1em; margin-bottom: 1em;}
+button:hover {background: #006666}
+
+form {overflow: auto; clear: both; padding-left: 1em;}
+
+form p {clear: both;}
+
+#demo { display: flex;
+        flex-direction: row;
+}
+
+@media only screen and (max-width: 1024px) {
+            body { margin: 0; padding: 0; } 
+            #wrapper { width: auto; margin: 0; }
+		    h1 { font-size: 200%; }
+		    nav ul { display: flex;
+                     flex-direction: row;
+				     justify-content: center; 
+			}
+			nav li { padding: 0 0.5em; 
+				     font-size: 1.2em;
+			}
+}			
+@media only screen and (max-width: 768px) {
+			#wrapper { width: auto; margin: 0; }
+         	nav { order: 1; }
+		    nav ul { flex-wrap: wrap; }
+}
+header, main, nav, footer, figure, figcaption { display: block; }

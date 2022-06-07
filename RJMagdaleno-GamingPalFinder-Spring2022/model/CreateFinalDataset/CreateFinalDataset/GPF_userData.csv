@@ -1,0 +1,101 @@
+id,C1,C2,C3,G1,G2,G3,seen,aveLike
+0,Platformer,RPG,Sports,Shovel Knight,Fire Emblem,Madden NFL,81.0,2.84
+1,Platformer,Horror,FPS,Crash Bandicoot,Resident Evil,Call of Duty,82.0,4.51
+2,Platformer,FPS,Horror,Crash Bandicoot,Battlefield,Resident Evil,82.0,4.63
+3,FPS,Battle Royale,RPG,Halo,Fall Guys,Elder Scrolls,88.0,4.32
+4,Platformer,RPG,FPS,Crash Bandicoot,Fire Emblem,Halo,72.0,4.58
+5,RPG,FPS,Platformer,Fire Emblem,Halo,Shovel Knight,87.0,5.17
+6,Battle Royale,RPG,Horror,Apex Legends,Fire Emblem,Dead Space,85.0,3.53
+7,RPG,Horror,FPS,Elder Scrolls,Silent Hill,Call of Duty,79.0,4.81
+8,Battle Royale,FPS,Horror,Fortnite,Call of Duty,Dead Space,83.0,3.61
+9,RPG,Horror,Platformer,Final Fantasy,Resident Evil,Super Mario Bros,79.0,4.68
+10,Platformer,RPG,FPS,Crash Bandicoot,Final Fantasy,Halo,82.0,4.63
+11,Sports,Horror,Battle Royale,Madden NFL,Resident Evil,Fall Guys,81.0,4.07
+12,Battle Royale,Platformer,Horror,Fortnite,Super Mario Bros,Resident Evil,87.0,4.25
+13,Sports,Battle Royale,FPS,NBA 2K,Apex Legends,Halo,78.0,4.49
+14,Horror,Battle Royale,FPS,Silent Hill,Fall Guys,Battlefield,81.0,3.46
+15,Platformer,Battle Royale,FPS,Super Mario Bros,Apex Legends,Halo,85.0,4.94
+16,Platformer,Sports,Battle Royale,Shovel Knight,Madden NFL,Fall Guys,85.0,3.65
+17,Sports,RPG,FPS,FIFA,Elder Scrolls,Halo,88.0,3.75
+18,Platformer,RPG,FPS,Super Mario Bros,Elder Scrolls,Call of Duty,86.0,4.53
+19,Horror,Platformer,RPG,Dead Space,Shovel Knight,Fire Emblem,81.0,4.81
+20,Platformer,FPS,Horror,Super Mario Bros,Battlefield,Dead Space,84.0,4.76
+21,Platformer,Battle Royale,FPS,Crash Bandicoot,Fortnite,Halo,84.0,5.0
+22,FPS,Platformer,Horror,Battlefield,Shovel Knight,Silent Hill,87.0,4.14
+23,Platformer,FPS,Battle Royale,Super Mario Bros,Halo,Apex Legends,78.0,5.51
+24,Platformer,RPG,Sports,Crash Bandicoot,Final Fantasy,NBA 2K,81.0,3.83
+25,FPS,Battle Royale,Platformer,Call of Duty,Fortnite,Crash Bandicoot,86.0,4.77
+26,Battle Royale,FPS,Horror,Fortnite,Halo,Resident Evil,85.0,4.47
+27,FPS,RPG,Platformer,Battlefield,Elder Scrolls,Crash Bandicoot,83.0,4.1
+28,Platformer,FPS,RPG,Shovel Knight,Halo,Fire Emblem,78.0,4.1
+29,Platformer,FPS,Battle Royale,Crash Bandicoot,Halo,Apex Legends,83.0,3.86
+30,Sports,FPS,Platformer,Madden NFL,Halo,Shovel Knight,82.0,4.02
+31,Battle Royale,RPG,Platformer,Fortnite,Fire Emblem,Super Mario Bros,85.0,4.12
+32,Sports,RPG,Battle Royale,Madden NFL,Final Fantasy,Fall Guys,77.0,4.16
+33,FPS,RPG,Platformer,Call of Duty,Elder Scrolls,Crash Bandicoot,84.0,4.17
+34,Battle Royale,Horror,FPS,Apex Legends,Dead Space,Battlefield,81.0,4.32
+35,Battle Royale,Platformer,RPG,Fortnite,Super Mario Bros,Final Fantasy,76.0,4.08
+36,Platformer,Battle Royale,RPG,Super Mario Bros,Apex Legends,Elder Scrolls,84.0,4.05
+37,FPS,Platformer,Horror,Battlefield,Crash Bandicoot,Dead Space,82.0,4.76
+38,FPS,Battle Royale,Sports,Call of Duty,Fall Guys,NBA 2K,82.0,4.51
+39,Sports,RPG,Platformer,Madden NFL,Fire Emblem,Super Mario Bros,75.0,4.27
+40,Horror,Platformer,Battle Royale,Silent Hill,Super Mario Bros,Fall Guys,81.0,4.44
+41,RPG,Platformer,Horror,Final Fantasy,Super Mario Bros,Dead Space,82.0,4.15
+42,Battle Royale,Platformer,RPG,Fortnite,Shovel Knight,Fire Emblem,84.0,4.76
+43,Horror,RPG,Sports,Resident Evil,Final Fantasy,FIFA,78.0,3.97
+44,Platformer,Sports,Battle Royale,Shovel Knight,FIFA,Fortnite,74.0,3.92
+45,FPS,Battle Royale,RPG,Battlefield,Apex Legends,Elder Scrolls,85.0,3.88
+46,RPG,Platformer,FPS,Elder Scrolls,Super Mario Bros,Call of Duty,79.0,3.54
+47,Battle Royale,RPG,Horror,Apex Legends,Fire Emblem,Resident Evil,78.0,3.97
+48,Platformer,Battle Royale,Horror,Crash Bandicoot,Fortnite,Silent Hill,80.0,4.25
+49,FPS,Sports,RPG,Halo,FIFA,Fire Emblem,86.0,3.49
+50,RPG,FPS,Battle Royale,Final Fantasy,Battlefield,Fortnite,82.0,4.39
+51,Horror,Battle Royale,RPG,Silent Hill,Fortnite,Final Fantasy,84.0,3.81
+52,Horror,Platformer,Battle Royale,Resident Evil,Shovel Knight,Apex Legends,78.0,3.85
+53,Horror,Sports,FPS,Dead Space,FIFA,Call of Duty,81.0,4.32
+54,Horror,RPG,Sports,Silent Hill,Final Fantasy,FIFA,77.0,3.51
+55,Sports,FPS,RPG,Madden NFL,Halo,Final Fantasy,79.0,5.57
+56,Horror,Sports,RPG,Resident Evil,FIFA,Final Fantasy,81.0,3.95
+57,Sports,Horror,Platformer,FIFA,Dead Space,Shovel Knight,82.0,3.66
+58,Platformer,RPG,Battle Royale,Crash Bandicoot,Final Fantasy,Fortnite,81.0,4.94
+59,Horror,RPG,Battle Royale,Resident Evil,Fire Emblem,Fall Guys,81.0,4.07
+60,RPG,Battle Royale,FPS,Final Fantasy,Fortnite,Call of Duty,83.0,4.1
+61,Platformer,Horror,FPS,Shovel Knight,Resident Evil,Battlefield,79.0,4.43
+62,Platformer,Horror,RPG,Crash Bandicoot,Silent Hill,Final Fantasy,85.0,5.18
+63,FPS,Battle Royale,Horror,Battlefield,Apex Legends,Silent Hill,77.0,4.68
+64,Sports,RPG,Battle Royale,Madden NFL,Fire Emblem,Fall Guys,71.0,3.24
+65,RPG,Horror,FPS,Elder Scrolls,Dead Space,Halo,82.0,4.27
+66,RPG,Platformer,Battle Royale,Final Fantasy,Crash Bandicoot,Fall Guys,84.0,4.76
+67,Battle Royale,FPS,Horror,Fall Guys,Call of Duty,Silent Hill,78.0,4.23
+68,Sports,Battle Royale,Horror,FIFA,Fortnite,Dead Space,76.0,4.08
+69,Horror,FPS,Sports,Resident Evil,Battlefield,NBA 2K,81.0,3.21
+70,RPG,Battle Royale,Platformer,Final Fantasy,Fall Guys,Super Mario Bros,79.0,4.43
+71,FPS,Horror,Battle Royale,Battlefield,Silent Hill,Fall Guys,83.0,4.34
+72,Battle Royale,FPS,Horror,Fall Guys,Call of Duty,Silent Hill,85.0,5.06
+73,Platformer,Horror,RPG,Super Mario Bros,Dead Space,Elder Scrolls,78.0,3.72
+74,RPG,Sports,FPS,Fire Emblem,NBA 2K,Halo,80.0,3.62
+75,Sports,FPS,Battle Royale,FIFA,Call of Duty,Apex Legends,88.0,4.32
+76,FPS,RPG,Platformer,Halo,Fire Emblem,Shovel Knight,80.0,4.12
+77,Battle Royale,Horror,FPS,Fortnite,Dead Space,Call of Duty,82.0,3.9
+78,Horror,Platformer,Battle Royale,Resident Evil,Super Mario Bros,Fall Guys,80.0,4.5
+79,Battle Royale,Horror,FPS,Fortnite,Silent Hill,Battlefield,78.0,4.87
+80,RPG,Battle Royale,Platformer,Final Fantasy,Fortnite,Super Mario Bros,83.0,5.06
+81,RPG,Sports,FPS,Fire Emblem,FIFA,Call of Duty,76.0,3.95
+82,Battle Royale,Platformer,Sports,Fall Guys,Shovel Knight,FIFA,79.0,3.54
+83,RPG,Platformer,FPS,Elder Scrolls,Super Mario Bros,Halo,80.0,5.0
+84,Platformer,Sports,RPG,Super Mario Bros,Madden NFL,Final Fantasy,77.0,4.16
+85,Platformer,FPS,Battle Royale,Shovel Knight,Battlefield,Fall Guys,82.0,4.88
+86,Battle Royale,Horror,Platformer,Fall Guys,Dead Space,Super Mario Bros,84.0,4.29
+87,RPG,FPS,Horror,Elder Scrolls,Battlefield,Resident Evil,80.0,4.38
+88,Platformer,Horror,Battle Royale,Super Mario Bros,Silent Hill,Fortnite,79.0,5.19
+89,FPS,Battle Royale,Horror,Battlefield,Fall Guys,Dead Space,81.0,4.69
+90,Horror,FPS,Battle Royale,Silent Hill,Call of Duty,Apex Legends,74.0,3.65
+91,Sports,Horror,Platformer,FIFA,Silent Hill,Shovel Knight,84.0,3.93
+92,Platformer,FPS,Horror,Super Mario Bros,Halo,Resident Evil,77.0,3.9
+93,Sports,Battle Royale,Platformer,Madden NFL,Apex Legends,Shovel Knight,81.0,3.46
+94,Horror,FPS,Platformer,Dead Space,Battlefield,Shovel Knight,83.0,4.82
+95,RPG,Sports,Platformer,Final Fantasy,NBA 2K,Crash Bandicoot,86.0,4.3
+96,Horror,Sports,FPS,Dead Space,NBA 2K,Call of Duty,87.0,4.14
+97,Sports,Platformer,RPG,NBA 2K,Super Mario Bros,Fire Emblem,82.0,3.66
+98,RPG,Sports,Horror,Elder Scrolls,FIFA,Silent Hill,73.0,3.29
+99,Battle Royale,FPS,Horror,Apex Legends,Battlefield,Resident Evil,78.0,4.62
