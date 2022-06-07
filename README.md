@@ -1,9 +1,9 @@
 # Gaming-Pal-Finder
-** Abstract ** 
+**Abstract** 
 Many video game players suffer from antisocial behavior. Being afraid to communicate with fellow players hurts both the person and the gaming genre. This project, titled Gaming Pal Finder, aims to create the initial meeting point for friends by combining a website with a machine learning model. As users enter their top three favorite games and decide whether they like others based on their preferences, the model grows more robust and accurate. Utilizing a web application, database, and python machine learning model, this project plants a solid foundation for a viable product in the future.
 
 # Instructions
-** Installation **
+**Installation**
 The following applications are required to properly operate this project:
 - XAMPP: Visit the website https://www.apachefriends.org, download the correct program version for your computer, and run the setup executable. Follow the instructions leaving all components selected and the installation folder as C:\xampp. Once downloaded, the modules should automatically select ports to be connected to. If those port(s) are already being used, you can change the connection by clicking the config button and changing the listen value in httpd.conf or port value in my.ini.
 - Visual Studio Community: Visit the website https://visualstudio.microsoft.com/downloads, choose the free download for Visual Studio 2019/2022, and run the setup executable. In the workloads menu, it is recommended to select “Python development” and “Data storage and processing.” After finishing the installation, launch Visual Studio, create your environment, and navigate to “Continue without code.” Follow the steps at https://docs.microsoft.com/en-us/visualstudio/python/tutorial-working-with-python-in-visual-studio-step-05-installing-packages?view=vs-2022 to ensure packages pandas, numpy, cloudpickle, pickleshare, matplotlib, matplotlib-inline, and mysql-connector-python are installed to be used for imports in the code.
